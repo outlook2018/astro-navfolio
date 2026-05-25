@@ -1,7 +1,7 @@
 [config.site]
 title = "陈年往事"
 description = "一个普通人记录一些陈年往事。"
-pageTitle = "陈年往事 | 一个普通人的喃喃自语"
+pageTitle = "陈年往事"
 pageDescription = "一个普通人的喃喃自语，记录自己的学习、工作、生活经历。"
 # 页面顶部GitHub Logo对应的Url
 repository = "https://github.com/outlook2018"
@@ -17,7 +17,7 @@ palette = "blue-soft"
 
 [config.comments]
 enabled = true
-provider = "giscus"
+provider = "waline"
 show_on_posts = true
 
 [config.search]
@@ -50,7 +50,7 @@ label = "comment"
 theme = "github-light"
 
 [config.comments.waline]
-server_url = ""
+server_url = "https://waline.liujie.dpdns.org/"
 lang = "zh-CN"
 dark = "html.dark"
 pageview = true
@@ -63,7 +63,7 @@ role = "一杯敬明天，一杯敬过往。"
 company = "Independent Studio"
 location = "Remote"
 email = "me@liujie.dpdns.org"
-website = "https://blog.liujie.dpdns.org"
+website = "https://blog.lianchi.org"
 github = "https://github.com/outlook2018"
 meta = "Open-source maintainer"
 avatar = "/images/logo.jpg"
