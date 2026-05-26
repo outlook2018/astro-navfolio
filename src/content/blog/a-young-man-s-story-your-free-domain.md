@@ -36,7 +36,7 @@ Edward埋下头，开始动手。在一台小小的 VPS 上部署了 BIND9 DNS �
 
 平台上线之后，Edward 很快发现，真正的挑战不是把系统跑起来，而是让它在混乱中活下去。免费的东西，总会招来滥用：垃圾邮件、钓鱼网站、恶意注册……他没有选择回避，而是为此专门构建了一整套防御体系——自动化审核流水线、行为模式评分、基于 GitHub 身份的实名核验、结构化的举报与响应机制。他知道，无法消灭所有的恶意，但至少要让其他人仍然可以安心使用这个系统。
 
-这个平台，后来有了一个名字 —— [DigitalPlat FreeDomain](https://dash.domain.digitalplat.org/signup?ref=qcgHhAxQvr, "DigitalPlat Domain Registry")。
+这个平台，后来有了一个名字 —— [DigitalPlat FreeDomain](https://dash.domain.digitalplat.org/signup?ref=qcgHhAxQvr "DigitalPlat Domain Registry")。
 
 ## 没有发布会的逆袭
 
@@ -44,10 +44,10 @@ DigitalPlat FreeDomain用 Python 和 Flask 搭建，谈不上精雕细琢，也�
 
 从数百人，到数千人，再到数万人——
 
-最终，这个少年在十五岁时不经意间埋下的种子，长成了一棵参天大树：服务全球超过四十万注册用户，并在 [GitHub](https://github.com/DigitalPlatDev/FreeDomain, "Welcome to DigitalPlat Domain") 上收获了高达 16 万 Star 的项目。
+最终，这个少年在十五岁时不经意间埋下的种子，长成了一棵参天大树：服务全球超过四十万注册用户，并在 [GitHub](https://github.com/DigitalPlatDev/FreeDomain "Welcome to DigitalPlat Domain") 上收获了高达 16 万 Star 的项目。
 
 ## 选哪个后缀？先看这里
-目前，[DigitalPlat FreeDomain](https://dash.domain.digitalplat.org/signup?ref=qcgHhAxQvr, "DigitalPlat Domain Registry") 提供五种二级域名后缀：dpdns.org、qzz.io、qd.je、us.kg、xx.kg。其中前三种完全免费，后两种象征性地收取少量费用。
+目前，[DigitalPlat FreeDomain](https://dash.domain.digitalplat.org/signup?ref=qcgHhAxQvr "DigitalPlat Domain Registry") 提供五种二级域名后缀：dpdns.org、qzz.io、qd.je、us.kg、xx.kg。其中前三种完全免费，后两种象征性地收取少量费用。
 
 这里有一个值得留意的小细节：注册域名之后，大多数用户会选择交由 CloudFlare 托管。但 CloudFlare 会将 qzz.io 和 qd.je 识别为子域名，导致无法正常接入。因此，推荐优先注册 dpdns.org 后缀的域名，兼容性最佳，省去不少麻烦。
 
@@ -55,7 +55,7 @@ DigitalPlat FreeDomain用 Python 和 Flask 搭建，谈不上精雕细琢，也�
 ## 五步注册，轻松上手
 注册步骤十分简单：
 
-1. 点击 [DigitalPlat FreeDomain](https://dash.domain.digitalplat.org/signup?ref=qcgHhAxQvr, "DigitalPlat Domain Registry") 进入平台，使用 GitHub 或 Google 账号登录；
+1. 点击 [DigitalPlat FreeDomain](https://dash.domain.digitalplat.org/signup?ref=qcgHhAxQvr "DigitalPlat Domain Registry") 进入平台，使用 GitHub 或 Google 账号登录；
 1. 在左侧菜单找到 "Register / 注册"，点击进入；
 1. 选择后缀 dpdns.org，输入你心仪的前缀；
 1. 勾选"同意服务条款"，点击 "检查可用性"；
